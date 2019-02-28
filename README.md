@@ -1,4 +1,4 @@
-# The EUShop.NET Project (Press release)
+# The EUShop.NET Project
 
 ## ActivityPub enabled decentralized Shopping Platform where everybody can run  his own shop  instance
 
