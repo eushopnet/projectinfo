@@ -10,3 +10,11 @@
 - Fiat and Crypto Curency payments supported
 - shop system includes all requirements for EU VAT, GDPR and billing/reporting requirements
 - open source software
+
+**Project Infos**
+
+Follow us on Mastodon @eushopnet@mastodon.ctseuro.com or contact us on Riot.IM to get invited to the community rooms.
+
+All contact infos on https://EUShop.NET
+
+
