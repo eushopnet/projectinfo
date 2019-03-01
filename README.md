@@ -17,4 +17,8 @@ Follow us on Mastodon @eushopnet@mastodon.ctseuro.com or contact us on Riot.IM t
 
 All contact infos on https://EUShop.NET
 
+**Find us**
+
+We are on Mastodon @eushopnet@mastodon.ctseuro.com and we operate a public Matrix Room, best visited with Riot.IM Messenger at #eushopnet:matrix.ctseuro.com . Use **/j #eushopnet:matrix.ctseuro.com** to join us.
+
 
