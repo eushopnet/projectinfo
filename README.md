@@ -33,7 +33,7 @@ We are on Mastodon @eushopnet@mastodon.ctseuro.com and we operate a public Matri
 
 **Update**
 
-- 20190326 WE FOUND THE SOLUTION! See our video on this page. We was able to include Tor within the Go language binary and build an alpha prototype to show that it is possible to finalize TSSOP!
+- 20190326 WE FOUND THE SOLUTION! See our video on this page. We was able to include Tor within the Go language binary and build an alpha prototype to show that it is possible to finalize EUShop.NET!
 
 - 20190326 we are thinking about combining https://kmj.at/tssop and EUShop.net to one project. Early stage of an idea!
 
