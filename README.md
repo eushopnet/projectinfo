@@ -1,3 +1,5 @@
+# This project is currently not active.
+
 # The EUShop.NET Project
 
 ## ActivityPub enabled decentralized Shopping Platform where everybody can run  his own shop  instance
